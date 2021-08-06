@@ -23,6 +23,12 @@
      <NAME>mimetype</NAME>
      <VALUE>image/png</VALUE>
     </WWWPARAMS>
+    <WWWPARAMS>
+     <RELID>MI</RELID>
+     <OBJID>ZNUVE_LOGO</OBJID>
+     <NAME>version</NAME>
+     <VALUE>00003</VALUE>
+    </WWWPARAMS>    
    </PARAMS>
   </asx:values>
  </asx:abap>
